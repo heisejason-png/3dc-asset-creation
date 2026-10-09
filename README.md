@@ -27,5 +27,5 @@ This work is licensed under a CC BY 4.0 license.
 Copyright 2025 The Khronos® Group Inc.
 
 <!-- End License -->
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+ 
